@@ -44,6 +44,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented user stories:
 
+https://www.loom.com/share/8c593055f0cd41a9b1210cac9e84be14
 
 
 ---
